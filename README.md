@@ -24,3 +24,7 @@ Este projeto me permitiu aprofundar minhas habilidades em desenvolvimento front-
 Estou muito empolgado com o resultado final e ansioso para continuar explorando novas tecnologias e abordagens para o desenvolvimento web!
 
 🔗 Confira mais sobre este projeto no meu GitHub: [Seu Link do GitHub Aqui]
+
+
+
+![Captura de tela 2024-08-28 112213](https://github.com/user-attachments/assets/277649aa-c611-4a90-89aa-a853cdedb00a)
