@@ -26,5 +26,4 @@ Estou muito empolgado com o resultado final e ansioso para continuar explorando 
 🔗 Confira mais sobre este projeto no meu GitHub: [Seu Link do GitHub Aqui]
 
 
-
-![Captura de tela 2024-08-28 112213](https://github.com/user-attachments/assets/277649aa-c611-4a90-89aa-a853cdedb00a)
+![Captura de tela 2024-09-02 141955](https://github.com/user-attachments/assets/3fcf9089-3759-4b1b-b750-c6d05dd109c1)
