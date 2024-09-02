@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>My To-Do List</h1>
+        <form id="task-form" aria-label="Add a new task">
+            <input 
+                type="text" 
+                id="task-input" 
+                placeholder="Enter a new task..." 
+                aria-label="Task input field" 
+                required 
+            >
+            <button type="submit" aria-label="Add task button">Add</button>
+        </form>
+        
+        <div class="tasks-section">
+            <h2>Pending Tasks</h2>
+            <ul id="task-list" aria-live="polite"></ul>
+        </div>
+        
+        <div class="tasks-section">
+            <h2>Completed Tasks</h2>
+            <ul id="completed-task-list" aria-live="polite"></ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
