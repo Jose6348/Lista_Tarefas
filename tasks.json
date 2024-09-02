@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1725296939919",
+    "text": "Trabalhar",
+    "completed": false
+  },
+  {
+    "id": "1725297409087",
+    "text": "Estudar",
+    "completed": true
+  },
+  {
+    "id": "1725297415001",
+    "text": "Trabalhar",
+    "completed": false
+  },
+  {
+    "id": "1725297424455",
+    "text": "Trabalhar",
+    "completed": false
+  },
+  {
+    "id": "1725297431951",
+    "text": "Estudar",
+    "completed": false
+  },
+  {
+    "id": "1725297434480",
+    "text": "cuidar",
+    "completed": false
+  },
+  {
+    "id": "1725297439027",
+    "text": "trabalho",
+    "completed": false
+  },
+  {
+    "id": "1725297451087",
+    "text": "Cuidar da chinchila",
+    "completed": true
+  }
+]
